@@ -21,6 +21,8 @@ Technologies used: <br>
   <br>
  Update-Database
  <br>
+ If you are doing from console, run the following command
+ <br>
  dotnet ef migrations add Initial
  <br>
 dotnet ef database update
