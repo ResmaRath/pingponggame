@@ -16,6 +16,8 @@ Technologies used: <br>
  Tools -> Nuget Package Manager -> Package Manager Console  - run the following commands to create the database.
   <br>
  Add-Migration Initial
+ <br> 
+ The Add-Migration command generates code to create the initial database schema.
   <br>
  Update-Database
  <br>
